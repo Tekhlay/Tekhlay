@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tekhlay Birhane</h1>
-<h3 align="center">Software Engneer</h3>
+<h3 align="center">Software Engineer</h3>
 <p> 
   ☑️ 👀 I’m interested in Web development <br/>
   ☑️ 🌱 I’m currently learning Web development at Microverse **Ruby on Rails, React** <br/>
@@ -7,13 +7,20 @@
   ☑️ 📧 How to reach me **teklaybirhane12@gmail.com**
 </p>
 <h3 align="center">Contact Address ☎️</h3>
-  <p> 
-    ☑️ Github [@Tekhlay](https://github.com/Tekhlay)<br/>
-    ☑️ Twiter [@TeklayB](https://twitter.com/TekhlayB12)</p>
+<p>
+☑️ Github [@Tekhlay](https://github.com/Tekhlay)<br/>
+☑️ Twiter [@TeklayB](https://twitter.com/TekhlayB12)<br/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tekhlay&label=Profile Views&color=green&style=for-the-badge" alt="Tekhlay" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Tekhlay&label=Profile Views&color=green&style=for-the-badge" alt="Tekhlay" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tekhlay" alt="Tekhlay" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Tekhlay" alt="Tekhlay" />
+  </a> 
+</p>
 
 
 <h3 align="left">Skills, Languages and Frame works</h3>
