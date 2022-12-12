@@ -3,13 +3,13 @@
 <p> 
   ☑️ 👀 I’m interested in Web development <br/>
   ☑️ 🌱 I’m currently learning Web development at Microverse **Ruby on Rails, React** <br/>
-  ☑️ 💞️ I’m looking to collaborate on real projects<br/>
+  ☑️ 💞️ I’m looking to collaborate on open projects<br/>
   ☑️ 📧 How to reach me **teklaybirhane12@gmail.com**
 </p>
 <h3 align="center">Contact Address ☎️</h3>
 <p>
-☑️ Github [@Tekhlay](https://github.com/Tekhlay)<br/>
-☑️ Twiter [@TeklayB](https://twitter.com/TekhlayB12)<br/>
+☑️ Github [@Tekhlay](https://github.com/Tekhlay) <br/>
+☑️ Twiter [@TeklayB](https://twitter.com/TekhlayB12) <br/>
 </p>
 
 <p align="left"> 
