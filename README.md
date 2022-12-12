@@ -7,10 +7,9 @@
   ☑️ 📧 How to reach me **teklaybirhane12@gmail.com**
 </p>
 <h3 align="center">Contact Address ☎️</h3>
-<p>
-☑️ Github [@Tekhlay](https://github.com/Tekhlay) <br/>
+
+ ☑️ Github [@Tekhlay](https://github.com/Tekhlay) <br/>
 ☑️ Twiter [@TeklayB](https://twitter.com/TekhlayB12) <br/>
-</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Tekhlay&label=Profile Views&color=green&style=for-the-badge" alt="Tekhlay" />
