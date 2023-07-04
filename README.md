@@ -4,12 +4,12 @@
   ☑️ 👀 I’m interested in Web development <br/>
   ☑️ 🌱 I’m currently learning Web development at Microverse **Ruby on Rails, React** <br/>
   ☑️ 💞️ I’m looking to collaborate on open projects<br/>
-  ☑️ 📧 How to reach me **teklaybirhane12@gmail.com**
+  ☑️ 📧 How to reach me <a href="mailto:teklaybirhane12@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <h3 align="center">Contact Address ☎️</h3>
 
-☑️ Github [@Tekhlay](https://github.com/Tekhlay) <br/>
-☑️ LinkedIn [Tekhlay](https://www.linkedin.com/in/tekhlay/) <br/>
+☑️ <a href="https://www.linkedin.com/in/tekhlay/"><img src="https://img.shields.io/badge/linkedin-%23DD0031.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/></a> <br/>
+☑️ <a href=""/> <img src="https://img.shields.io/badge/twitter-%23DD0031.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> <br/>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Tekhlay&label=Profile Views&color=green&style=for-the-badge" alt="Tekhlay" />
