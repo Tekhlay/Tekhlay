@@ -9,7 +9,7 @@
 <h3 align="center">Contact Address ☎️</h3>
 
 ☑️ <a href="https://www.linkedin.com/in/tekhlay/"><img src="https://img.shields.io/badge/linkedin-%23DD0031.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/></a> <br/>
-☑️ <a href=""/> <img src="https://img.shields.io/badge/twitter-%23DD0031.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> <br/>
+☑️ <a href="https://twitter.com/TekhlayB12"/> <img src="https://img.shields.io/badge/twitter-%23DD0031.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> <br/>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Tekhlay&label=Profile Views&color=green&style=for-the-badge" alt="Tekhlay" />
