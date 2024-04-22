@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 <p> 
   ☑️ 👀 I’m interested in Web development <br/>
-  ☑️ 🌱 I’m currently learning Web development at Microverse **Ruby on Rails, React** <br/>
+  ☑️ 🌱 I’m certified Web developer from Microverse in **Ruby on Rails, React** <br/>
   ☑️ 💞️ I’m looking to collaborate on open projects<br/>
   ☑️ 📧 How to reach me <a href="mailto:teklaybirhane12@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
